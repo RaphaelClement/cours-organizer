@@ -1,0 +1,19 @@
+# Données personnelles et configuration locale
+config.json
+course_mappings.json
+audit_log.json
+pending_plan.json
+credentials.json
+token.json
+.env
+
+# Fichiers téléchargés temporaires et caches Python
+moodle_staging/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.DS_Store
+Thumbs.db
